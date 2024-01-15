@@ -56,11 +56,6 @@ Goodbye</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="25" alt="atom logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/untk/count.svg?"  />
-</div>
 
 ###
 
