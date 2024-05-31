@@ -48,14 +48,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-###
 
-<img align="right" height="182" src="https://i.pinimg.com/originals/64/8e/58/648e58d071568bba75276ea8f632a7ad.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=untk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
